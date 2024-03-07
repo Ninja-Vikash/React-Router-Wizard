@@ -3,13 +3,13 @@
 </p>
 <h1 align="center">React-Router-Wizard</h1>
 
-#### About 😃
+### About 😃
 
 React-Router-Wizard is an indispensable deployment tool designed to streamline the web development process, particularly when crafting single-page applications using React and Tailwind CSS.
 
 This powerful tool automates the creation of essential directories for seamless routing, generates demo files, and constructs a robust router setup. With React-Router-Wizard, web developers can significantly enhance their workflow, saving time and effort in setting up the intricate routing structure required for modern web applications. Whether you're a seasoned developer or just starting with React and Tailwind CSS, this tool is tailored to simplify your project setup and boost overall productivity.
 
-#### Features 🌟
+### Features 🌟
 
 * Effortless Deployment
 
@@ -27,7 +27,7 @@ This powerful tool automates the creation of essential directories for seamless 
 
     The tool sets up the initial configuration for react, including routing. This ensures that your project is ready for development without additional manual configuration.
 
-#### Folder Structure 🏗️
+### Folder Structure 🏗️
 
 ```
 └── 📁myapp
@@ -519,7 +519,7 @@ setTimeout(() => {
 }, 1500);
 
 setTimeout(() => {
-  console.log("\n\tReact-Router-Wizard has been Deployed\n\tnpm run dev")
+  console.log("\nReact-Router-Wizard has been Deployed\nnpm run dev\n")
 }, 3000);
 /**
  *  Created with Love and Javascript
