@@ -5,23 +5,23 @@
 
 ### About 😃
 
-React-Router-Wizard is an indispensable deployment tool designed to streamline the web development process, particularly when crafting single-page applications using React and Tailwind CSS.
+**React-Router-Wizard** is an indispensable deployment tool designed to streamline the web development process, particularly when crafting single-page applications using **React** and **Tailwind CSS**.
 
 This powerful tool automates the creation of essential directories for seamless routing, generates demo files, and constructs a robust router setup. With React-Router-Wizard, web developers can significantly enhance their workflow, saving time and effort in setting up the intricate routing structure required for modern web applications. Whether you're a seasoned developer or just starting with React and Tailwind CSS, this tool is tailored to simplify your project setup and boost overall productivity.
 
 ### Features 🌟
 
-* Effortless Deployment
-
+* **Effortless Deployment**
+  
     React-Router-Wizard eliminates the hassle of manual setup by providing a single command for deploying your react application with tailwindCSS.
 
-* Directory Structure
-
+* **Directory Structure**
+  
     The tool creates a well-organized directory structure, ensuring a clean and scalable project layout. Directories such as "components," and "pages" are automatically generated to maintain the separation of concerns.
 
-* Default Files
+* **Default Files**
 
-    React-Router-Wizard re-writes default files like App.jsx, App.css, and index.css to kickstart your project. Also creates some additional files like in component files Footer.jsx, Navbar.jsx and in page files Home.jsx, About.jsx, Documentation.jsx, Other.jsx. These files are preconfigured with basic settings and examples, allowing you to focus on building your application logic.
+    React-Router-Wizard re-writes default files like `App.jsx`, `App.css`, and `index.css` to kickstart your project. Also creates some additional files like in component files `Footer.jsx`, `Navbar.jsx` and in page files `Home.jsx`, `About.jsx`, `Documentation.jsx`, and `Other.jsx`. These files are preconfigured with basic settings and examples, allowing you to focus on building your application logic.
 
 * Routing Configuration
 
@@ -84,7 +84,7 @@ npm install
 ```
 
 #### Install dependencies
-Install dependencies for react-router-dom and tailwindcss
+Install dependencies for **react-router-dom** and **tailwindcss**
 ```bash 
 npm install react-router-dom -D tailwindcss postcss autoprefixer
 ```
@@ -96,7 +96,7 @@ npx tailwindcss init -p
 > Don't forget to install dependencies
 
 #### Update script
-To streamline the deployment of all directories and files, update the scripts section in your package.json. ⚙️
+To streamline the deployment of all directories and files, update the scripts section in your `package.json`. ⚙️
 ```json
 "scripts": {
     "dev": "vite",
@@ -111,7 +111,7 @@ To streamline the deployment of all directories and files, update the scripts se
 
 #### Create index.js
 > [!IMPORTANT]\
-> Responsibility for deploying all directories and files lies with index.js 💡
+> Responsibility for deploying all directories and files lies with `index.js` 💡
 
 ```js
 import fs, { mkdir } from 'fs'
@@ -539,7 +539,7 @@ npm run deploy
 npm run dev
 ```
 
-React-Router-Wizard aims to simplify the initial setup process for React applications using TailwindCSS, enabling Routing Facilities for developers to focus more on building features and less on project configuration.
+**React-Router-Wizard** aims to simplify the initial setup process for React applications using **TailwindCSS**, enabling **Routing** Facilities for developers to focus more on building features and less on project configuration.
 
 ##### Developed by 👩‍💻🔧 : [Ninja-Vikash](https://github.com/Ninja-Vikash)
 
