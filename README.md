@@ -110,6 +110,7 @@ To streamline the deployment of all directories and files, update the scripts se
 > Don't forget to update scripts in `package.json`
 
 #### Create index.js
+Create an `index.js` file in the outermost directory.
 > [!IMPORTANT]\
 > Responsibility for deploying all directories and files lies with `index.js` 💡
 
