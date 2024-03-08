@@ -314,10 +314,10 @@ const Documentaion = () => {
       <Navbar />
       <div className="container h-[100vh] bg-slate-950 flex flex-col items-center justify-center">
         <div className="flex flex-col items-center">
-          <a href="https://github.com/Ninja-Vikash">
+          <a href="https://github.com/Ninja-Vikash/React-Router-Wizard" target="_blank">
             <img className="h-44" src={github} height={20} />
           </a>
-          <h2 className="text-white">Click On github</h2>
+          <h2 className="text-white">React-Router-Wizard</h2>
         </div>
         <Footer />
       </div>
@@ -325,7 +325,7 @@ const Documentaion = () => {
   );
 };
 
-export default Documentaion;
+export default Documentation;
 `
 
 fs.writeFile('src/pages/Documentation.jsx', DocumentationJSX, ()=>console.log("FILE: Documentation.jsx has been created!"))
@@ -520,9 +520,10 @@ setTimeout(() => {
 }, 1500);
 
 setTimeout(() => {
-  console.log("\nReact-Router-Wizard has been Deployed\nnpm run dev\n")
-}, 3000);
-/**
+  console.log("\nReact-Router-Wizard!")
+  console.log("Done, Now run:")
+  console.log("npm run dev\n")
+}, 3000);/**
  *  Created with Love and Javascript
  */
 ```
