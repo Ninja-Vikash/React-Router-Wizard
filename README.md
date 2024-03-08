@@ -308,7 +308,7 @@ import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import github from "../assets/github.svg";
 
-const Documentaion = () => {
+const Documentation = () => {
   return (
     <div>
       <Navbar />
