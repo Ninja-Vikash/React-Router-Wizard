@@ -183,7 +183,7 @@ const About = () => {
 export default About;
 `
 
-fs.writeFile('src/components/About.jsx', AboutJSX, ()=>console.log("FILE: About.jsx has been created!"))
+fs.writeFile('src/pages/About.jsx', AboutJSX, ()=>console.log("FILE: About.jsx has been created!"))
 
 // -------------------------------------- Creating Documentation.jsx ---------------------------------
 
