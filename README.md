@@ -3,6 +3,21 @@
 </p>
 <h1 align="center">React-Router-Wizard</h1>
 
+<p align="center">Welcome to the seamless deployment method of react, router, and tailwind.</p>
+<p align="center">Powered by:</p>
+<p align="center">
+    <a href="https://vitejs.dev/"><img src="https://github.com/Ninja-Vikash/React-Router-Wizard/blob/main/src/assets/vite.svg" height="70px"/></a>
+    <a href="https://react.dev//"><img src="https://github.com/Ninja-Vikash/React-Router-Wizard/blob/main/src/assets/react.svg" height="70px"/></a>
+    <a href="https://tailwindcss.com/"><img src="https://github.com/Ninja-Vikash/React-Router-Wizard/blob/main/src/assets/tailwind.svg" height="70px"/></a>
+</p>
+
+## Content table
+
+- [About](https://github.com/Ninja-Vikash/React-Router-Wizard?tab=readme-ov-file#about-)
+- [Features](https://github.com/Ninja-Vikash/React-Router-Wizard?tab=readme-ov-file#features-)
+- [Folder Structure](https://github.com/Ninja-Vikash/React-Router-Wizard?tab=readme-ov-file#folder-structure-%EF%B8%8F)
+- [Getting Started!](https://github.com/Ninja-Vikash/React-Router-Wizard?tab=readme-ov-file#getting-started-)
+
 ### About 😃
 
 **React-Router-Wizard** is an indispensable deployment tool designed to streamline the web development process, particularly when crafting single-page applications using **React** and **Tailwind CSS**.
@@ -23,7 +38,7 @@ This powerful tool automates the creation of essential directories for seamless 
 
     React-Router-Wizard re-writes default files like `App.jsx`, `App.css`, and `index.css` to kickstart your project. Also creates some additional files like in component files `Footer.jsx`, `Navbar.jsx` and in page files `Home.jsx`, `About.jsx`, `Documentation.jsx`, and `Other.jsx`. These files are preconfigured with basic settings and examples, allowing you to focus on building your application logic.
 
-* Routing Configuration
+* **Routing Configuration**
 
     The tool sets up the initial configuration for react, including routing. This ensures that your project is ready for development without additional manual configuration.
 
