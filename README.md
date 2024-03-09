@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/Ninja-Vikash/asset-cloud/blob/main/icon%20%26%20png/react-router-wizard.png" height="160px"/>
+    <img src="https://github.com/Ninja-Vikash/React-Router-Wizard/blob/main/public/logo.svg" height="160px"/>
 </p>
 <h1 align="center">React-Router-Wizard</h1>
 
