@@ -1,13 +1,13 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import connectIcon from "../assets/connect.svg";
+import logo from '../assets/logo.svg'
 
 const Navbar = () => {
   return (
     <nav className="absolute container flex justify-between items-center px-24 bg-indigo-950/10">
       <div className="logo font-bold text-xl text-white">
         <Link to="/" className="flex items-center gap-2">
-          <img className="h-8" src={connectIcon} height={10} /> Router-Wizard
+          <img className="h-8" src={logo} height={10} /> Router-Wizard
         </Link>
       </div>
       <ul className="flex p-4 gap-16 text-white font-semibold">

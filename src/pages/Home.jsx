@@ -1,12 +1,12 @@
 import React from "react";
 import Navbar from "../components/Navbar";
+import Footer from "../components/Footer";
 import "../App.css";
 
 import reactLogo from "../assets/react.svg";
 import tailwindLogo from "../assets/tailwind.svg";
 import viteLogo from "../assets/vite.svg";
-import routeLogo from "../assets/routing.svg";
-import Footer from "../components/Footer";
+import logo from '../assets/logo.svg'
 
 const Home = () => {
   return (
@@ -44,7 +44,7 @@ const Home = () => {
           <a target="_blank" href="https://reactrouter.com/en/main/start/tutorial">
             <img
               className="h-36 drop-shadow-[0_0px_5px_#1e40af] hover:drop-shadow-[0_0px_8px_#2563eb]"
-              src={routeLogo}
+              src={logo}
               height={10}
             />
           </a>
