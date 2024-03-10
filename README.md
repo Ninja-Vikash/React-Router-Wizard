@@ -3,8 +3,8 @@
 </p>
 <h1 align="center">React-Router-Wizard</h1>
 
-<p align="center">Welcome to the seamless deployment method of react, router, and tailwind.</p>
-<p align="center">Powered by:</p>
+<h3 align="center">Welcome to the seamless deployment method of react, router, and tailwind.</h3>
+<p align="center"><b>Powered by</b></p>
 <p align="center">
     <a href="https://vitejs.dev/"><img src="https://github.com/Ninja-Vikash/React-Router-Wizard/blob/main/src/assets/vite.svg" height="70px"/></a>
     <a href="https://react.dev//"><img src="https://github.com/Ninja-Vikash/React-Router-Wizard/blob/main/src/assets/react.svg" height="70px"/></a>
@@ -17,6 +17,11 @@
 - [Features](https://github.com/Ninja-Vikash/React-Router-Wizard?tab=readme-ov-file#features-)
 - [Folder Structure](https://github.com/Ninja-Vikash/React-Router-Wizard?tab=readme-ov-file#folder-structure-%EF%B8%8F)
 - [Getting Started!](https://github.com/Ninja-Vikash/React-Router-Wizard?tab=readme-ov-file#getting-started-)
+  - [Installing Dependencies](https://github.com/Ninja-Vikash/React-Router-Wizard?tab=readme-ov-file#install-dependencies)
+  - [Update Script](https://github.com/Ninja-Vikash/React-Router-Wizard?tab=readme-ov-file#update-script)
+  - [index.js](https://github.com/Ninja-Vikash/React-Router-Wizard?tab=readme-ov-file#create-indexjs)
+
+***
 
 ### About 😃
 
