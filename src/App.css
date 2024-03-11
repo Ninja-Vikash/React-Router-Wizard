@@ -6,13 +6,3 @@
   box-sizing : border-box;
   font-family: "Poppins", sans-serif;
 }
-
-@keyframes rotate {
-  to {
-    transform: rotate(1turn);
-  }
-}
-
-#react {
-  animation: rotate linear 20s infinite normal;
-}

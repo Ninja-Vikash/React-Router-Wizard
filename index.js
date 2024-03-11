@@ -9,10 +9,15 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      animation: {
+        'spin-slow': 'spin 20s linear infinite normal',
+      },
+    },
   },
   plugins: [],
 }`
+
 fs.writeFile('tailwind.config.js', configData, ()=>console.log("FILE: tailwind.config.js has been updated!"))
 
 // ------------------------------------------ Creating directory -----------------------------------
@@ -123,7 +128,7 @@ const Home = () => {
           </a>
           <a target="_blank" href="https://react.dev/">
             <img
-              className="h-36 drop-shadow-[0_0px_5px_#1e40af] hover:drop-shadow-[0_0px_8px_#2563eb]"
+              className="h-36 drop-shadow-[0_0px_5px_#1e40af] hover:drop-shadow-[0_0px_8px_#2563eb] animate-spin-slow"
               src={reactLogo}
               height={10}
               id="react"

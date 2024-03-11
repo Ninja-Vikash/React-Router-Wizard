@@ -28,10 +28,9 @@ const Home = () => {
           </a>
           <a target="_blank" href="https://react.dev/">
             <img
-              className="h-36 drop-shadow-[0_0px_5px_#1e40af] hover:drop-shadow-[0_0px_8px_#2563eb]"
+              className="h-36 drop-shadow-[0_0px_5px_#1e40af] hover:drop-shadow-[0_0px_8px_#2563eb] animate-spin-slow"
               src={reactLogo}
               height={10}
-              id="react"
             />
           </a>
           <a target="_blank" href="https://tailwindcss.com/">
